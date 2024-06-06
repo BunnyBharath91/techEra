@@ -1,0 +1,10 @@
+.header-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: azure;
+}
+
+.company-logo {
+  height: 20px;
+}
